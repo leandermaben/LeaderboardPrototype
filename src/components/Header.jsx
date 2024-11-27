@@ -9,7 +9,7 @@ function Header() {
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', paddingBottom: '15px' }}>
           <h1 style={{ fontSize: '60px', paddingTop: '0.4em' }}>{headerDetails.title}</h1>
           <img 
-            src="/robot.png" 
+            src={process.env.PUBLIC_URL + '/robot.png'} 
             style={{ height: '100px', paddingTop: '0em', paddingLeft: '0.5em' }} 
             alt="TheAgentCompanyLogo" 
           />
