@@ -1,7 +1,0 @@
-{
-    "title": "The Agent Company",
-    "subtitle": "Can Language Model based Agents solve real world tasks?",
-    "authors": ["John Doe", "Jane Doe", "Jim Beam", "John Doe", "Tony Stark","Steve Rogers","Thor","Bruce Banner","Peter Parker"],
-    "paper_link": "https://arxiv.org/abs/2310.06770",
-    "github_link": "https://github.com/princeton-nlp/SWE-bench"
-}
