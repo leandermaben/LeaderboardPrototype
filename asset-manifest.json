@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheAgentCompany-Leaderboard-Prototype/static/css/main.b585c478.css",
-    "main.js": "/TheAgentCompany-Leaderboard-Prototype/static/js/main.ba325e8e.js",
+    "main.js": "/TheAgentCompany-Leaderboard-Prototype/static/js/main.a93e5353.js",
     "static/js/453.57eac08f.chunk.js": "/TheAgentCompany-Leaderboard-Prototype/static/js/453.57eac08f.chunk.js",
     "static/media/fa-solid-900.ttf": "/TheAgentCompany-Leaderboard-Prototype/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/fa-brands-400.ttf": "/TheAgentCompany-Leaderboard-Prototype/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
@@ -17,11 +17,11 @@
     "static/media/fa-v4compatibility.woff2": "/TheAgentCompany-Leaderboard-Prototype/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/TheAgentCompany-Leaderboard-Prototype/index.html",
     "main.b585c478.css.map": "/TheAgentCompany-Leaderboard-Prototype/static/css/main.b585c478.css.map",
-    "main.ba325e8e.js.map": "/TheAgentCompany-Leaderboard-Prototype/static/js/main.ba325e8e.js.map",
+    "main.a93e5353.js.map": "/TheAgentCompany-Leaderboard-Prototype/static/js/main.a93e5353.js.map",
     "453.57eac08f.chunk.js.map": "/TheAgentCompany-Leaderboard-Prototype/static/js/453.57eac08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b585c478.css",
-    "static/js/main.ba325e8e.js"
+    "static/js/main.a93e5353.js"
   ]
 }
